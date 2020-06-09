@@ -1,0 +1,3 @@
+rootProject.name='DownloadMangerSkriller test'
+include ':app'
+include ':powerbolt'
